@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View, TextInput, StyleSheet, Platform, StatusBar, SafeAreaView, ImageBackgrounda, ImageBackground } from 'react-native';
-import { WebView } from 'react-native-webview';
+// import { WebView } from 'react-native-webview';
 
 export default class StarMapScreen extends Component {
     constructor() {
